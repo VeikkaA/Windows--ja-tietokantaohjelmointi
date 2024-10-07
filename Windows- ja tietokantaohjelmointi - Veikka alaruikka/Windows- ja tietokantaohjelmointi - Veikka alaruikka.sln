@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows- ja tietokantaohjelmointi - Veikka alaruikka", "Windows- ja tietokantaohjelmointi - Veikka alaruikka\Windows- ja tietokantaohjelmointi - Veikka alaruikka.csproj", "{1E28CF5D-83A0-45D0-B806-E6D98CE79726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1Form harkka", "H1Form harkka\H1Form harkka.csproj", "{72803264-5479-4C49-AF40-06E41219860E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2Button harkka", "H2Button harkka\H2Button harkka.csproj", "{8BFDD6AE-5B62-47CF-93F3-1BE68A95AC11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3TextBox harkka", "H3TextBox harkka\H3TextBox harkka.csproj", "{FDBA5EE9-9F2E-4313-965C-E2AABF568F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E28CF5D-83A0-45D0-B806-E6D98CE79726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E28CF5D-83A0-45D0-B806-E6D98CE79726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E28CF5D-83A0-45D0-B806-E6D98CE79726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E28CF5D-83A0-45D0-B806-E6D98CE79726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72803264-5479-4C49-AF40-06E41219860E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72803264-5479-4C49-AF40-06E41219860E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72803264-5479-4C49-AF40-06E41219860E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72803264-5479-4C49-AF40-06E41219860E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFDD6AE-5B62-47CF-93F3-1BE68A95AC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFDD6AE-5B62-47CF-93F3-1BE68A95AC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFDD6AE-5B62-47CF-93F3-1BE68A95AC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFDD6AE-5B62-47CF-93F3-1BE68A95AC11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBA5EE9-9F2E-4313-965C-E2AABF568F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBA5EE9-9F2E-4313-965C-E2AABF568F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBA5EE9-9F2E-4313-965C-E2AABF568F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBA5EE9-9F2E-4313-965C-E2AABF568F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACE866B-81A0-41E3-BE9C-C8BFE80F0076}
+	EndGlobalSection
+EndGlobal

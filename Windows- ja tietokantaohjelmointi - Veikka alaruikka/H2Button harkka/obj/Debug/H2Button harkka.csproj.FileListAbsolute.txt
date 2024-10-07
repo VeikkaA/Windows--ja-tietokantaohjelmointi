@@ -1,0 +1,10 @@
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\bin\Debug\H2Button harkka.exe.config
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\bin\Debug\H2Button harkka.exe
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\bin\Debug\H2Button harkka.pdb
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\obj\Debug\H2Button harkka.csproj.AssemblyReference.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\obj\Debug\H2Button_harkka.Paaikkuna.resources
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\obj\Debug\H2Button_harkka.Properties.Resources.resources
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\obj\Debug\H2Button harkka.csproj.GenerateResource.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\obj\Debug\H2Button harkka.csproj.CoreCompileInputs.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\obj\Debug\H2Button harkka.exe
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H2Button harkka\obj\Debug\H2Button harkka.pdb

@@ -1,0 +1,10 @@
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\bin\Debug\H3TextBox harkka.exe.config
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\bin\Debug\H3TextBox harkka.exe
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\bin\Debug\H3TextBox harkka.pdb
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\obj\Debug\H3TextBox harkka.csproj.AssemblyReference.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\obj\Debug\H3TextBox_harkka.Paaikkuna.resources
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\obj\Debug\H3TextBox_harkka.Properties.Resources.resources
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\obj\Debug\H3TextBox harkka.csproj.GenerateResource.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\obj\Debug\H3TextBox harkka.csproj.CoreCompileInputs.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\obj\Debug\H3TextBox harkka.exe
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H3TextBox harkka\obj\Debug\H3TextBox harkka.pdb

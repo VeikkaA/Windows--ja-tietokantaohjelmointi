@@ -1,0 +1,10 @@
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\bin\Debug\H1Form harkka.exe.config
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\bin\Debug\H1Form harkka.exe
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\bin\Debug\H1Form harkka.pdb
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\obj\Debug\H1Form harkka.csproj.AssemblyReference.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\obj\Debug\H1Form_harkka.Paaikkuna.resources
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\obj\Debug\H1Form_harkka.Properties.Resources.resources
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\obj\Debug\H1Form harkka.csproj.GenerateResource.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\obj\Debug\H1Form harkka.csproj.CoreCompileInputs.cache
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\obj\Debug\H1Form harkka.exe
+D:\Windows--ja-tietokantaohjelmointi\Windows- ja tietokantaohjelmointi - Veikka alaruikka\H1Form harkka\obj\Debug\H1Form harkka.pdb
